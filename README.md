@@ -1,3 +1,25 @@
-# sensor-monitor
+# Sensor Monitor
 
-Proyecto base generado con Spring Boot 3.5.3 y Java 24 para monitoreo de sensores.
+## Project Overview
+
+This project is a Spring Boot application built with Java 24 and Spring Boot 3.5.3. It serves as the foundation for the Sensor Monitor system.
+
+## Getting Started
+
+### Prerequisites
+- Java 24 (JDK) installed on your machine.
+- No need to install Maven globally — the project includes the Maven Wrapper.
+
+### Building and Running the Project
+You can use the Maven Wrapper scripts to build and run the application without installing Maven globally:
+
+
+#### Build the project:
+```bash
+  ./mvnw clean install
+```
+
+#### Run the application:
+```bash
+ ./mvnw spring-boot:run
+```

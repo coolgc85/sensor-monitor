@@ -12,7 +12,7 @@
 	<artifactId>sensor-monitor</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>sensor-monitor</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Sensor monitoring application built with Spring Boot</description>
 	<url/>
 	<licenses>
 		<license/>
