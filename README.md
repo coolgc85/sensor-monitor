@@ -2,12 +2,12 @@
 
 ## Project Overview
 
-This project is a Spring Boot application built with Java 24 and Spring Boot 3.5.3. It serves as the foundation for the Sensor Monitor system.
+This project is a Spring Boot application built with Java 21 and Spring Boot 3.5.3. It serves as the foundation for the Sensor Monitor system.
 
 ## Getting Started
 
 ### Prerequisites
-- Java 24 (JDK) installed on your machine.
+- Java 21 (JDK) installed on your machine.
 - No need to install Maven globally — the project includes the Maven Wrapper.
 
 ### Building and Running the Project
