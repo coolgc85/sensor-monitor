@@ -3,3 +3,8 @@ server:
 spring:
   application:
     name: sensor-monitor
+  kafka:
+    bootstrap-servers: localhost:9092
+    consumer:
+      group-id: sensor-monitor-group
+
