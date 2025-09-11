@@ -10,6 +10,39 @@
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
+
+# IntelliJ
+.idea/
+*.iml
+*.ipr
+
+# === Visual Studio Code ===
+.vscode/
+.history/
+*.code-workspace
+
+# Eclipse / STS
+.project
+.classpath
+.settings/
+
+# NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+
+# Android Studio
+.gradle/
+local.properties
+*.apk
+*.ap_
+captures/
+
+# Maven target directory
+/target/
+
 # Package Files #
 *.jar
 *.war
